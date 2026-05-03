@@ -1,0 +1,16 @@
+{
+  "vauxhall@@main-color": "vauxhall-white",
+  "vauxhall@@color-intensity": "intensity-void",
+  "vauxhall@@header-color-type": "headers-gradient-cyan-to-purple",
+  "vauxhall@@h1-accent": false,
+  "ulu-theme-settings@@ulu-subtheme-selection": "ulu-origami",
+  "ulu-theme-settings@@ulu-theme-dark": "ulu-super-con-d",
+  "ulu-theme-settings@@ulu-color-accent": "ulu-blue",
+  "ulu-theme-settings@@ulu-cards-border": false,
+  "ulu-theme-settings@@ulu-cards-shadow": false,
+  "ulu-theme-settings@@ulu-callouts": "ulu-brutal-callouts",
+  "ulu-theme-settings@@ulu-prop-card": true,
+  "ulu-theme-settings@@ulu-colorfo-headings": true,
+  "kakano-style@@theme-setting-predefinedBaseColor": "theme-setting-baseColorPreset-mangu",
+  "kakano-style@@theme-value-gradientContrast": 0.5
+}

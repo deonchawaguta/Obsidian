@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("cgrc")
+    order:
+      - file.name
+      - tags
+      - file.mtime
+    sort:
+      - property: file.ext
+        direction: DESC
+      - property: file.mtime
+        direction: ASC
+    columnSize:
+      file.name: 386
+      note.tags: 178

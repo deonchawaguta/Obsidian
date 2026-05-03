@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "14ef368fb1a56808",
+    "type": "split",
+    "children": [
+      {
+        "id": "4be6e93bf3b31a4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bc94a3cdfbb55d6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5009faa47c7b8fef",
+    "type": "split",
+    "children": [
+      {
+        "id": "8439929b8684f8b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c3f601a2cf2cff7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fdde202b414e3f8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:privacy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "77666e32dd37f41d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "51f3d8a9d19da47d",
+    "type": "split",
+    "children": [
+      {
+        "id": "720743f105d206b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "060189e1fc567ba5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Certified Information Privacy Manager.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Certified Information Privacy Manager"
+            }
+          },
+          {
+            "id": "f2eb751d287aa2d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Certified Information Privacy Manager.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Certified Information Privacy Manager"
+            }
+          },
+          {
+            "id": "d775efa67161a85f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9f9b74f5214e590a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2d43a9d62ab07b59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Certified Information Privacy Manager.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Certified Information Privacy Manager"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6bc94a3cdfbb55d6",
+  "lastOpenFiles": [
+    "Introduction to Security and Privacy Principles.md",
+    "Obsidian/Training and Awareness.md",
+    "Obsidian/Security and Privacy Governance, Risk Management, and Compliance Program.md",
+    "Obsidian/Protecting Personal Information.md",
+    "Obsidian/Program Baseline.md",
+    "Obsidian/Processors and Third-Party Vendor Assessment.md",
+    "Obsidian/Privacy Program Activities.md",
+    "Obsidian/Privacy Governance.md",
+    "Obsidian/Privacy Frameworks.md",
+    "Obsidian/Privacy by Design.md",
+    "Obsidian/Privacy Assessments and Documentation.md",
+    "Obsidian/Privacy and Cybersecurity.md",
+    "Obsidian/Policies.md",
+    "Obsidian/Payment Card Industry Data Security Standard.md",
+    "Obsidian/NIST Risk Management Framework.md",
+    "Obsidian/NIST Privacy Framework.md",
+    "Obsidian/NIST Cybersecurity Framework.md",
+    "Obsidian/My Notes.base",
+    "Obsidian/Monitoring and Auditing Program Performance.md",
+    "Obsidian/IT Governance and Frameworks.md",
+    "Obsidian/IT Auditing.md",
+    "Obsidian/Introduction to Security and Privacy Principles.md",
+    "Obsidian/Introduction to Privacy Program Management.md",
+    "Obsidian/Generally Accepted Privacy Principles.md",
+    "Obsidian/GAPP Privacy Criteria.md",
+    "Obsidian/Fair Information Practice Principles.md",
+    "Obsidian/Data Subject Rights.md",
+    "Obsidian/sources/aicpa_cica_privacy_maturity_model.pdf",
+    "Obsidian/sources",
+    "Obsidian/desktop.ini",
+    "Obsidian",
+    "Git-Vault/Untitled.canvas",
+    "Git-Vault/Untitled 3.canvas",
+    "Git-Vault/House of Praise Multimedia Team Meeting - 24 February 2024.pdf",
+    "Git-Vault/Untitled 1.canvas",
+    "Git-Vault/Dashboard.canvas",
+    "Git-Vault/Untitled 2.canvas",
+    "Git-Vault/Multimedia Team Meeting - 24 February 2024.pdf",
+    "Git-Vault/Pasted image 20241118163838.png",
+    "Git-Vault/Pasted image 20241118131544.png",
+    "Git-Vault/Pasted image 20241114085207.png",
+    "Git-Vault/Pasted image 20241114085150.png",
+    "Git-Vault/Pasted image 20241017122043.png",
+    "Git-Vault/Pasted image 20241008152800.png",
+    "Git-Vault/Pasted image 20241008101220.png",
+    "Git-Vault/Pasted image 20241002160008.png",
+    "Git-Vault/Pasted image 20241001103106.png",
+    "Git-Vault/Pasted image 20241001101923.png",
+    "Git-Vault/MFA-whitepaper-v2.pdf",
+    "Git-Vault/CISA Roadmap.canvas",
+    "Git-Vault/Budget.xlsx",
+    "Git-Vault",
+    "Untitled.canvas"
+  ]
+}
